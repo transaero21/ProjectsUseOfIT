@@ -3,7 +3,7 @@
 ### Activity Diagram
 ![Activity Diagram](img/RobotActivityDiagram.png)
 
-### se Case Diagram
+### Use Case Diagram
 ![Use Case Diagram](img/RobotUseCaseDiagram.png)
 
 ### Class Diagram

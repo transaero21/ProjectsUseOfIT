@@ -3,7 +3,7 @@
 ### Activity Diagram
 ![Activity Diagram](img/UniversityActivityDiagram.png)
 
-### se Case Diagram
+### Use Case Diagram
 ![Use Case Diagram](img/UniversityUseCaseDiagram.png)
 
 ### Class Diagram

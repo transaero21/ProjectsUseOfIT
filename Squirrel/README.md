@@ -3,7 +3,7 @@
 ### Activity Diagram
 ![Activity Diagram](img/SquirrelActivityDiagram.png)
 
-### se Case Diagram
+### Use Case Diagram
 ![Use Case Diagram](img/SquirrelUseCaseDiagram.png)
 
 ### Class Diagram
